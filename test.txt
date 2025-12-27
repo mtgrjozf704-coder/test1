@@ -1,1 +1,1 @@
-StopResource("m3_lib")
+Get-Content server.cfg
