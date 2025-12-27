@@ -1,0 +1,1 @@
+StopResource("m3_lib")
